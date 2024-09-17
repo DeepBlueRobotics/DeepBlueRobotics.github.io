@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **THE INSTRUCTION BELOW ARE NOW DEFUNCT. Starting in August 2024, the team's website was moved to a Wordpress site hosted through the school's business club, sponsored by Mr. Rowe. Lead mentors can provide students with access to the Wordpress account.**
+
 # Introduction
 
 These are instructions for maintaining the [carlmontrobotics.org](http://www.carlmontrobotics.org/) website. 
